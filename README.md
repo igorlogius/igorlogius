@@ -1,6 +1,7 @@
 
 ### Contact me
-https://reddit.com/user/igorlogius/
+- https://mstdn.social/@igorlogius
+- https://reddit.com/user/igorlogius
 
 ### Leave me a tip:
 Bitcoin-Wallet-Address: 35WK2GqZHPutywCdbHKa9BQ52GND3Pd6h4
