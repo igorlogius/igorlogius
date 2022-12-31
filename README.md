@@ -1,7 +1,7 @@
 
-### Contact me
+### Contact me via
 - <a rel="me" href="https://mstdn.social/@igorlogius">Mastodon</a>
-- https://reddit.com/user/igorlogius
+- <a href="https://reddit.com/user/igorlogius">Reddit</a> 
 
 ### Leave me a tip:
 Bitcoin-Wallet-Address: 35WK2GqZHPutywCdbHKa9BQ52GND3Pd6h4
