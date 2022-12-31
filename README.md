@@ -1,6 +1,6 @@
 
 ### Contact me
-- https://mstdn.social/@igorlogius
+- <a rel="me" href="https://mstdn.social/@igorlogius">Mastodon</a>
 - https://reddit.com/user/igorlogius
 
 ### Leave me a tip:
