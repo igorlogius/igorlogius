@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Please open issues in regards to specific software inside of their related repositories. 
+
+For anything else feel free to open an issue [here](https://github.com/igorlogius/igorlogius/issues/new). 
+
 <!--
 **igorlogius/igorlogius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
