@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Please open issues in regards to specific software inside of their related repositories. 
+Please open issues in regards to specific software inside of their [related repositories](https://github.com/igorlogius?tab=repositories). 
 
 For anything else feel free to open an issue [here](https://github.com/igorlogius/igorlogius/issues/new). 
 
