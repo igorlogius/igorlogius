@@ -7,6 +7,6 @@ assignees: igorlogius
 
 ---
 
-*Example Question:*
+**Question**
 
-`Why are you addons so ugly?`
+Why are you addons so ugly?
