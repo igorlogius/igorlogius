@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Suggest an idea for a project
-title: '[<addon-name>] <feature title>'
+title: '[<project name>] <feature title>'
 labels: ''
 assignees: 'igorlogius'
 
