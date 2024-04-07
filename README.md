@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-To get in contact with me, please open an issue [here](https://github.com/igorlogius/igorlogius/issues/new/choose)
+### To get in contact [open an issue here](https://github.com/igorlogius/igorlogius/issues/new/choose)
 
 If the issue is related to one of my existing projects, please start the issue title with the name of the related project.
 (for example:  `[copy-tabs], [show-qrcode]` or `[dbl-click-dict]`). Thanks.
