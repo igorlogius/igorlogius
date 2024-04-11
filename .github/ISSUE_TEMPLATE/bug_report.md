@@ -8,20 +8,20 @@ assignees: 'igorlogius'
 ---
 
 **Steps to Reproduce**
-Steps to reproduce the behavior:
+
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
-4. See error
+4. Look at `...`
 
 **Expected result**
-A clear and concise description of what you expected to happen.
+Short description of what you expected to happen.
 
 **Actual result**
-A clear and concise description of what you expected to happen.
+Short description of what actually happend.
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+Add screenshots if those help to explain your problem.
 
 **Other additional information**
-Add any other context about the problem here.
+Add any other contextual information about the problem?
