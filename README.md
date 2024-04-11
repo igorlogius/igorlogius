@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-To report a bug, make a suggestion/feature request or ask me a question, just open an issue [> here <](https://github.com/igorlogius/igorlogius/issues/new/choose)
+To `report a bug`, `make a suggestion` or just `ask me a question`, just open an issue [> here <](https://github.com/igorlogius/igorlogius/issues/new/choose)
 
 If the issue is related to one of my existing projects, please start the issue title with the name of the related project.
-(for example:  `[Copy Tabs], [Show QRcode]` or `[Double Click Dictionary]`). Thanks.
+(examples:  `[Copy Tabs], [Show QRcode]` or `[Double Click Dictionary]`). Thanks.
 
 <!--
 **igorlogius/igorlogius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
