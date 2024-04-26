@@ -13,3 +13,28 @@ Should the number of collaboraters increases or something else change i might ch
 
 Sure, go ahead. If you plan an releasing something build with/on it into the public domain, 
 it would be nice if you left a mention somewhere. Otherwise, have fun.   
+
+### How do i know the stuff i install on AMO is the same as what is hosted here?
+
+1. Download the addon xpi file
+2. Change the extension to ".zip"
+3. Extract it
+
+It will include the same files you'll find in the repositories aside from an extra folder that holds some signature information added by mozilla which allows the browser to verify that this addon passed the AMO review and can be persistently installed into the stable versopm of firefox. 
+
+### Can you make an addon for me?
+
+Maybe ... it depends ... i generaly like to create stuff that has the potential to be useful for more then just one single person.
+But if i am in a good mood and you have a good reason the effort is not unreasonable ... i might help out anyway. 
+So, just open an addon request issue and provide as much details about your usecase/problem as possible. 
+
+### Why dont your addons work on some mozilla sites?
+
+There are some restricted domains, where addons are not allowed to be run, without making some very specific changes, so this isn't something i intentionally choose, but rather something that mozilla added as an addional protection mechanic for its users.
+
+### Which commit corresponds to a Version hosted on https://addons.mozilla.org? 
+
+The AMO version is tracked/linked with the `version` attribute inside the `manifest.json` file.
+If you are looking for the code of a specific version, go to the commit, where the `manifest.json`'s `version` attribute is changed to correspond wit the Version you are interested in.
+
+
