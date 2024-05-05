@@ -9,4 +9,4 @@ assignees: igorlogius
 
 **Question**
 
-Why are you addons so ugly?
+Why are your addons so ugly?
