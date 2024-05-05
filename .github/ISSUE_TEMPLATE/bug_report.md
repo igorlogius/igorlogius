@@ -18,7 +18,7 @@ assignees: 'igorlogius'
 Short description of what you expected to happen.
 
 **Actual result**
-Short description of what actually happend.
+Short description of what actually happened.
 
 **Screenshots**
 Add screenshots if those help to explain your problem.
