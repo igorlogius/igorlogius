@@ -1,4 +1,4 @@
-name: Bug report (*New*)
+name: Report a Bug 
 description: File a bug report.
 title: "[Projectname]: <title>"
 labels: ["bug", "triage"]
@@ -19,8 +19,11 @@ body:
       placeholder: |
         0. use temporary browser profile  
         1. install addon 
-        2. open page
-        3. ... 
+        2. open page ...
+        3. scroll to ...
+        4. click on ...
+        5. 
+        
 
   - type: textarea
     id: expected-result
