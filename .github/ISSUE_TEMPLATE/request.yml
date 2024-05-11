@@ -1,0 +1,21 @@
+name: Make a Suggestion / Feature Request
+description: File a feature request.
+title: "[project name]: <short title>"
+labels: ["💡 Suggestion", "🔍 Triage"]
+assignees:
+  - igorlogius
+body:
+
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time submit this issue!
+        
+  - type: textarea
+    id: expected-result
+    attributes:
+      label: Description
+      description: Please describe your request/suggestion
+      placeholder: |
+        - i want X todo Y ... because thats simpler/quicker fits into workflow Z
+        - i think A should be like B ... because ... C
