@@ -1,7 +1,7 @@
 name: Request a Feature 
 description: File a feature request.
 title: "[Project name]: <short title>"
-labels: ["💡 Suggestion", "🔍 Triage"}
+labels: ["💡 Suggestion", "🔍 Triage"]
 assignees:
   - igorlogius
 body:
