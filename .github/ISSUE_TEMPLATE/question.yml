@@ -8,7 +8,6 @@ labels: ["🛟 Question"]
 assignees:
   - igorlogius
 body:
-
   - type: markdown
     attributes:
       value: |
