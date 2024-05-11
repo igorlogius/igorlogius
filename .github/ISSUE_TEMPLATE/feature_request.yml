@@ -1,0 +1,32 @@
+name: Request a Feature 
+description: File a feature request.
+title: "[Project name]: <short feature title>"
+labels: ["suggestion", "triage"]
+assignees:
+  - igorlogius
+body:
+
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for taking the time submit this feature request!
+        
+  - type: textarea
+    id: expected-result
+    attributes:
+      label: Feature Description
+      description: Please describe the feature
+      placeholder: |
+        i want X todo Y ... because thats simpler/quicker fits into workflow Z
+
+  - type: textarea
+    id: additional-information
+    attributes:
+      label: Additional Information 
+      description: Any else that might be useful to know about?
+      placeholder: |
+        Examples: 
+        1. screen-shots/captures
+        2. browser (+version)
+        3. addon (+version)
+        4. ... 
