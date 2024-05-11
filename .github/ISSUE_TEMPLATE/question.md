@@ -1,12 +1,21 @@
 ---
-name: Other Questions
-about: Anything else goes here
-title: ''
-labels: '🛟 Question'
-assignees: igorlogius
+name: Ask a Question
+description: Anything else goes here
+title: "<short title>"
+labels: ["🛟 Question"]
+assignees:
+  - igorlogius
+body:
 
----
-
-**Question**
-
-Why are your addons so ugly?
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time submit this issue!
+        
+  - type: textarea
+    id: question
+    attributes:
+      label: Question
+      description: Ask your question here
+      placeholder: |
+          - Why are your addons so guly?
