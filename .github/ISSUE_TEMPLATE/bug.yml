@@ -1,7 +1,7 @@
 name: Report a Bug
 description: File a bug report.
 title: "[Projectname]: <title>"
-labels: ["🪲 Bug", "🔍 Triage"]
+labels: ["🪲 Bug"]
 assignees:
   - igorlogius
 body:
