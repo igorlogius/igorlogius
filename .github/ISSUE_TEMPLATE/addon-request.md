@@ -2,7 +2,7 @@
 name: Addon request
 about: Suggest an addon idea 
 title: ''
-labels: ''
+labels: '🛟 Question'
 assignees: igorlogius
 
 ---
