@@ -2,7 +2,7 @@
 name: Other Questions
 about: Ask things not related to any existing projects
 title: ''
-labels: '🛟 Question', '🔍 Triage'
+labels: '🛟 Question, 🔍 Triage'
 assignees: igorlogius
 
 ---
