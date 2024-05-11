@@ -1,6 +1,6 @@
 ---
-name: Other Question
-about: Ask things not related to any existing projects
+name: Other Questions
+about: Anything else goes here
 title: ''
 labels: '🛟 Question'
 assignees: igorlogius
