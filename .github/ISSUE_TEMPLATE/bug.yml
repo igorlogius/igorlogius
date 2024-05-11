@@ -1,6 +1,6 @@
 name: Report a Bug
 description: File a bug report.
-title: "[Projectname]: <title>"
+title: "[project name]: <short title>"
 labels: ["🪲 Bug"]
 assignees:
   - igorlogius
