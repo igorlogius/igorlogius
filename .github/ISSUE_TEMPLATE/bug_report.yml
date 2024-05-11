@@ -1,7 +1,7 @@
 name: Report a Bug 
 description: File a bug report.
 title: "[Projectname]: <title>"
-labels: ["bug", "triage"]
+labels: ["🪲 Bug", "🔍 Triage"]
 assignees:
   - igorlogius
 body:
@@ -15,16 +15,13 @@ body:
     id: steps-to-reproduce
     attributes:
       label: Steps to Reproduce
-      description: Please tell us, what steps are necessary to reproduce the issue?
+      description: Please list the necessary steps to reproduce the issue?
       placeholder: |
-        0. use temporary browser profile  
-        1. install addon 
+        1. open a temporary browser profile  
         2. open page ...
-        3. scroll to ...
-        4. click on ...
-        5. 
+        3. click on ...
+        4. ...
         
-
   - type: textarea
     id: expected-result
     attributes:
