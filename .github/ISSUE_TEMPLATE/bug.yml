@@ -1,16 +1,15 @@
-name: Report a Bug 
+name: Report a Bug
 description: File a bug report.
 title: "[Projectname]: <title>"
 labels: ["🪲 Bug", "🔍 Triage"]
 assignees:
   - igorlogius
 body:
-
   - type: markdown
     attributes:
       value: |
-        Thank you for taking the time submit this bug report!
-        
+        Thanks for taking the time submit this issue!
+  
   - type: textarea
     id: steps-to-reproduce
     attributes:
