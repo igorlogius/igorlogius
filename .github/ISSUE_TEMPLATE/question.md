@@ -1,5 +1,5 @@
 ---
-name: Other Questions
+name: Other Question
 about: Ask things not related to any existing projects
 title: ''
 labels: '🛟 Question'
