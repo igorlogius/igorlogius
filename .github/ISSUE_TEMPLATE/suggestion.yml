@@ -1,7 +1,7 @@
 name: Make a Suggestion / Feature Request
 description: Request a feature / make a suggestion
 title: "[project name]: <short title>"
-labels: ["💡 Suggestion", "🔍 Triage"]
+labels: ["💡 Suggestion"]
 assignees:
   - igorlogius
 body:
