@@ -1,6 +1,6 @@
-name: Bug Report Form
+name: Bug report (*New*)
 description: File a bug report.
-title: "[Project]: <title>"
+title: "[Projectname]: <title>"
 labels: ["bug", "triage"]
 assignees:
   - igorlogius
@@ -9,13 +9,13 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!
+        Thank you for taking the time submit this bug report!
         
   - type: textarea
     id: steps-to-reproduce
     attributes:
       label: Steps to Reproduce
-      description: What steps are necessary to reproduce the issue?
+      description: Please tell us, what steps are necessary to reproduce the issue?
       placeholder: |
         0. use temporary browser profile  
         1. install addon 
@@ -46,12 +46,11 @@ body:
         - Data was not saved
         - ...
 
-
   - type: textarea
     id: additional-information
     attributes:
       label: Additional Information 
-      description: Please share any additional which might be useful here?
+      description: Any else that might be useful to know about?
       placeholder: |
         Examples: 
         1. screen-shots/captures
