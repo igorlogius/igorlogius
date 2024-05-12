@@ -2,7 +2,7 @@
 
 To `report a bug`, `make a suggestion` or `ask a question`, open an issue [>> here <<](https://github.com/igorlogius/igorlogius/issues/new/choose)
 
-If the issue relates to a project, please start the title with `[project name]`. Thanks.
+If the issue relates to a project, please start the title with `[repo/software name]`. Thanks.
 
 <!--
 **igorlogius/igorlogius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
