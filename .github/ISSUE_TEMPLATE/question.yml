@@ -1,4 +1,4 @@
-name: Ask a Question
+name: Something else?
 description: Anything else goes here
 title: "<short title>"
 labels: ["🛟 Question"]
@@ -14,6 +14,5 @@ body:
     id: question
     attributes:
       label: Question
-      description: Ask your question here
       placeholder: |
-          - Why are your addons so guly?
+          - Why are your addons so ugly?
