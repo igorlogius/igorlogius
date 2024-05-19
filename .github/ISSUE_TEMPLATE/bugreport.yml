@@ -1,6 +1,6 @@
 name: Report a Bug
 description: File a bug report.
-title: "[project name]: <short title>"
+title: "[addon/software name]: <short title>"
 labels: ["🪲 Bug"]
 body:
   - type: markdown
@@ -16,7 +16,6 @@ body:
         1. open a temporary browser profile  
         2. open page ...
         3. click on ...
-        4. ...
         
   - type: textarea
     id: expected-result
@@ -27,7 +26,6 @@ body:
         - Windows should open that shows X
         - Data should be inside the clipboard 
         - Data should have been saved
-        - ...
 
   - type: textarea
     id: actual-result
@@ -38,7 +36,6 @@ body:
         - Nothing happend (no reaction)
         - Error/blank page was show
         - Data was not saved
-        - ...
 
   - type: textarea
     id: additional-information
@@ -49,4 +46,3 @@ body:
         1. screen-shots/captures
         2. browser (+version)
         3. addon (+version)
-        4. ... 
