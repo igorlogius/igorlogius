@@ -1,9 +1,7 @@
 name: Make a Suggestion / Feature Request
 description: Request a feature / make a suggestion
-title: "[project name]: <short title>"
+title: "[addon/software name]: <short title>"
 labels: ["💡 Suggestion"]
-assignees:
-  - igorlogius
 body:
 
   - type: markdown
@@ -17,5 +15,5 @@ body:
       label: Description
       description: Please describe your request/suggestion
       placeholder: |
-        - i want X todo Y ... because thats simpler/quicker fits into workflow Z
-        - i think A should be like B ... because ... C
+        - i want X todo Y, because thats simpler/quicker fits into workflow Z
+        - i think A should be like B because C
