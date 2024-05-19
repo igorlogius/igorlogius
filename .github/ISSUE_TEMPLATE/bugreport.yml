@@ -3,7 +3,6 @@ description: File a bug report.
 title: "[project name]: <short title>"
 labels: ["🪲 Bug"]
 assignees:
-  - igorlogius
 body:
   - type: markdown
     attributes:
