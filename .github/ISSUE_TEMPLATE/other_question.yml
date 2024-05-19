@@ -1,6 +1,6 @@
 name: Something else?
 description: Anything else goes here
-title: ""
+title: "<short title>"
 labels: ["🛟 Question"]
 assignees:
   - igorlogius
