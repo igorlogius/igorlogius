@@ -1,6 +1,6 @@
 name: Something else?
 description: Anything else goes here
-title: "<short title>"
+title: ""
 labels: ["🛟 Question"]
 assignees:
   - igorlogius
@@ -8,7 +8,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time submit this issue!
+        What's on your mind? 
         
   - type: textarea
     id: question
