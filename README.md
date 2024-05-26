@@ -2,7 +2,7 @@
 
 To `report a bug`, `make a suggestion` or `ask a question`, open an issue [>> here <<](https://github.com/igorlogius/igorlogius/issues/new/choose)
 
-If the issue relates to a repository, please start the title with `[repository]`.
+If the issue relates to a existing repository, please start the title with `[repository name]`.
 
 #### Security issues
 
