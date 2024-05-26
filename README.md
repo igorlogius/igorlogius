@@ -2,7 +2,11 @@
 
 To `report a bug`, `make a suggestion` or `ask a question`, open an issue [>> here <<](https://github.com/igorlogius/igorlogius/issues/new/choose)
 
-If the issue relates to a project, please start the title with `[repo/software name]`. Thanks.
+If the issue relates to a repository, please start the title with `[repository]`.
+
+#### Security issues
+
+Please report issues that might be security sensitive via the [support email](mailto:w7d7289je@mozmail.com) so those can be handled without the risk of compromising user security.
 
 <!--
 **igorlogius/igorlogius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
