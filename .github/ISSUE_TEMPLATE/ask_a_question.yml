@@ -1,4 +1,4 @@
-name: Something else?
+name: Ask a Question
 description: Anything else goes here
 title: "<short title>"
 labels: ["🛟 Question"]
@@ -7,7 +7,6 @@ body:
     attributes:
       value: |
         What's on your mind? 
-        
   - type: textarea
     id: question
     attributes:
