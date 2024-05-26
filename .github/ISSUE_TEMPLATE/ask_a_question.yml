@@ -2,8 +2,6 @@ name: Something else?
 description: Anything else goes here
 title: "<short title>"
 labels: ["🛟 Question"]
-assignees:
-  - igorlogius
 body:
   - type: markdown
     attributes:
