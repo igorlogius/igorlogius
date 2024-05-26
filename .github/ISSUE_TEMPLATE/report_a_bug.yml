@@ -1,5 +1,5 @@
-name: Report a Bug
-description: File a bug report / report a defect 🪲
+name: Report a Bug 🪲
+description: File a bug report / report a defect
 title: "[addon]: <short title>"
 labels: ["🪲 Bug"]
 body:
