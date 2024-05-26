@@ -1,6 +1,6 @@
 name: Report a Bug
 description: File a bug report.
-title: "[addon/software name]: <short title>"
+title: "[addon]: <short title>"
 labels: ["🪲 Bug"]
 body:
   - type: markdown
