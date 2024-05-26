@@ -1,5 +1,5 @@
 name: Report a Bug
-description: File a bug report.
+description: File a bug report / report a defect 
 title: "[addon]: <short title>"
 labels: ["🪲 Bug"]
 body:
@@ -24,8 +24,7 @@ body:
       placeholder: |
         Examples: 
         - Windows should open that shows X
-        - Data should be inside the clipboard 
-        - Data should have been saved
+        - Data should be inside the clipboard / saved
 
   - type: textarea
     id: actual-result
