@@ -1,14 +1,12 @@
-name: Make a Suggestion / Feature Request
-description: Request a feature / make a suggestion
+name: Make a Suggestion
+description: Make a suggestion / request a feature
 title: "[addon/software name]: <short title>"
 labels: ["💡 Suggestion"]
 body:
-
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time submit this issue!
-        
+        Thanks for taking the time submit this issue!   
   - type: textarea
     id: expected-result
     attributes:
