@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-To `report a bug`, `make a suggestion` or `ask a question`, open an issue [HERE](https://github.com/igorlogius/igorlogius/issues/new/choose)
+To `report a bug`, `make a suggestion` or `ask a question`, open an issue, [click here](https://github.com/igorlogius/igorlogius/issues/new/choose)
 
 If the issue relates to an existing repository, please start the title with `[repository name]`.
 
