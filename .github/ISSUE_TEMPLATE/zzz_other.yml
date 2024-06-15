@@ -1,7 +1,7 @@
-name: Ask a Question 🛟
-description: Anything else goes here
+name: Something else? 
+description: Use this for anything that is not a bug report or a suggetion
 title: "<short title>"
-labels: ["🛟 Question"]
+labels: ["🔍 Mystery"]
 body:
   - type: markdown
     attributes:
