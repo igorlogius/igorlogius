@@ -9,7 +9,7 @@ That said, anyone is welcome to make PRs / improvment suggestions.
 At the moment i find it easier when everything is in one place. 
 Should the number of collaboraters increases or something else change i might change this on a per repository basis. 
 
-### Can i use your stuff ? 
+### Can i use your stuff? 
 
 Sure, go ahead. If you plan an releasing something build with/on it into the public domain, 
 it would be nice if you left a mention somewhere. Otherwise, have fun.   
@@ -44,3 +44,18 @@ If you are looking for the code of a specific version, go to the commit, where t
 
 Eh, the async nature of the AMO API makes it difficult to automate getting the signed XPI back with github actions, so if i wanted to have these here, i'd have to manually transfer them ... which i'd rather not, at least at the moment. That is also one reason why moving to github completely is out of the question, aside from this issue leaving the AMO store would also reduce the visibility of the addons, which is also inconvient for users.  
 
+### Why did you not comment on my discussions? 
+
+I dont monitor discussions and have notifications disabled for most things. 
+If you want to get my attention, you'll best open an issue [here](https://github.com/igorlogius/igorlogius/issues/new/choose)
+
+### Why are discussions only enabled on a few repos?
+
+Currently i only have discussion enabled on `list-feeds`, `tabs-media-controller` and `gather-from-tabs`, because those addons have 
+user configurable input (css or userscript) that people can share with each other. 
+
+### Why do you delete old issues?
+
+I generally like to remove old resolved issues after a certain time cause i dont see much value in retaining them. 
+If something becomes relevant it's best to open a new issue.  
+In rare cases i'll keep issues open if i think other people might run into the same problem but there is nothing i can or want todo about it, as an annoucment kind of.
