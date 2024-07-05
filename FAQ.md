@@ -51,8 +51,8 @@ If you want to get my attention, you'll best open an issue [here](https://github
 
 ### Why are discussions only enabled on a few repos?
 
-Currently i only have discussion enabled on `list-feeds`, `tabs-media-controller` and `gather-from-tabs`, because those addons have 
-user configurable input (css or userscript) that people can share with each other. 
+For addons with a need of addional usage documentation i like to use the discussion section instead of the wiki system. 
+This also allows it other users to leave useful examples which can be included/added. 
 
 ### Why do you delete old issues?
 
