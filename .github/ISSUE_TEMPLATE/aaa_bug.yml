@@ -1,6 +1,6 @@
 name: Report a Bug 🪲
-description: File a bug report / report a defect
-title: "[addon]: <short title>"
+description: If something isn't working as you'd expect, please use this template to report 
+title: "[addon name]: <short title>"
 labels: ["🪲 Bug"]
 body:
   - type: markdown
