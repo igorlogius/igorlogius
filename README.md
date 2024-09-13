@@ -1,10 +1,10 @@
-### Hi there 👋
+### `Hi there 👋`
 
-[Click here to `report a bug`, `make a suggestion` or `ask a question`](https://github.com/igorlogius/igorlogius/issues/new/choose)
+**[`Click here to report a bug, make a suggestion, ask a question or start a discussion`](https://github.com/igorlogius/igorlogius/issues/new/choose)**
 
-#### Security issues
+`If you want to ask a question or start a discussion, please first take a look at this` [small FAQ](https://github.com/igorlogius/igorlogius/blob/main/FAQ.md). `If it doesnt contains the answer/information you are looking for, feel free to open an issue.`
 
-Please report issues that might be security sensitive via the [support email](mailto:w7d7289je@mozmail.com) so those can be handled without the risk of compromising user security.
+`~~~ Have a nice day ! ~~~`
 
 <!--
 **igorlogius/igorlogius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
