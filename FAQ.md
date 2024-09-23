@@ -32,7 +32,7 @@ So, just open an issue and provide as much details about your problem as possibl
 
 There are some restricted domains, where addons are not allowed to be run, without making some very specific changes, so this isn't something i intentionally choose, but rather something that mozilla did to add additional protection for its users. 
 
-### Which commit corresponds to a version hosted https://addons.mozilla.org? 
+### Which commit corresponds to a version hosted on https://addons.mozilla.org? 
 
 The AMO version is linked with the `version` attribute inside the `manifest.json` file.
 If you are looking for the code of a specific version, go to the commit, where the `manifest.json`'s `version` attribute is changed to correspond with the Version you are interested in.
