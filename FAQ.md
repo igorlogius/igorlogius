@@ -46,9 +46,9 @@ The current async nature of the AMO API makes it difficult to automate getting t
 I generally like to remove old resolved issues after a certain time cause i dont see much value in retaining them. 
 If something becomes relevant it's best to open a new issue.  
 
-### How can i sharing sensitive information? 
+### How to share sensitive information? 
 
-Open an issue so i can get back to you but only send the sensitive information 
+First open an issue so i can get back to you, then send the sensitive information 
 to the [support email](mailto:w7d7289je@mozmail.com) 
 Use the same issue title as the subject in the mail, so i'll be able to match them up. 
 
