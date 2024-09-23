@@ -2,7 +2,9 @@
 
 **[`Click here to report a bug, make a suggestion, ask a question or start a discussion`](https://github.com/igorlogius/igorlogius/issues/new/choose)**
 
-`If you want to ask a question or start a discussion, please first take a look at this` [small FAQ](https://github.com/igorlogius/igorlogius/blob/main/FAQ.md). `If it doesnt contains the answer/information you are looking for, feel free to open an issue.`
+`If you want to ask a question or start a discussion, please first take a look at my` [FAQ](https://github.com/igorlogius/igorlogius/blob/main/FAQ.md).
+
+`If you can't find the information you are looking for there, feel free to open an issue.`
 
 `~~~ Have a nice day ! ~~~`
 
