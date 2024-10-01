@@ -9,33 +9,16 @@ body:
         Thanks for taking the time submit this issue!
         Please use the following input fields to share all relevant information 
 
-  - type: dropdown
+  - type: checkbox 
     id: profile-reproducable
     attributes:
-      label: Reproducable in a new profile? 
+      label: Preliminary Checks
+      description: I tried to reproduce the issue when...
       options:
-        - I do not know what this means
-        - "no"
-        - "yes"
-    validations:
-      required: true
+        - label: "in a new unmodified browser profile with only the addon installed
+        - label: "on the current stable firefox version 
+        - label: "with the latest addon version"
 
-  - type: input
-    id: addon-version
-    attributes:
-      label: Addon version?
-      placeholder: "1.0.23"
-    validations:
-      required: true
-
-  - type: input
-    id: os-version
-    attributes:
-      label: Operation System (+Version)?
-      placeholder: "Windows 10, 11, XP, Vista "
-    validations:
-      required: true
-  
   - type: textarea
     id: steps-to-reproduce
     attributes:
