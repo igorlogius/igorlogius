@@ -9,15 +9,16 @@ body:
         Thanks for taking the time submit this issue!
         Please use the following input fields to share all relevant information 
 
-  - type: checkboxes
+  - type: dropdown
     id: profile-reproducable
     attributes:
       label: Reproducable in a new profile? 
       options:
-        - label: I do not know what this means
-          required: true
-        - label: "no"
-        - label: "yes"
+        - I do not know what this means
+        - no
+        - yes
+    validations:
+      required: true
 
   - type: input
     id: addon-version
