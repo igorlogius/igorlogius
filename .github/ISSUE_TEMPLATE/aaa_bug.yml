@@ -1,21 +1,51 @@
 name: Report a Bug 🪲
 description: If something isn't working as you'd expect, please use this template to report 
-title: "[addon name]: <short title>"
+title: "addon: title"
 labels: ["🪲 Bug"]
 body:
   - type: markdown
     attributes:
       value: |
         Thanks for taking the time submit this issue!
+        Please use the following input fields to share all relevant information 
+
+  - type: checkboxes
+    id: profile-reproducable
+    attributes:
+      label: Reproducable in a new profile? 
+      options:
+        - label: I do not know what this means
+          required: true
+        - label: no
+        - label: yes 
+
+  - type: input
+    id: addon-version
+    attributes:
+      label: Addon version?
+      placeholder: "1.0.23"
+    validations:
+      required: true
+
+  - type: input
+    id: os-version
+    attributes:
+      label: Operation System (+Version)?
+      placeholder: "Windows 10, 11, XP, Vista "
+    validations:
+      required: true
   
   - type: textarea
     id: steps-to-reproduce
     attributes:
       label: Steps to Reproduce
-      placeholder: |
-        1. open a temporary browser profile  
-        2. open page ...
-        3. click on ...
+      placeholder: |        
+        Examples: 
+          1. open the addon preferences page
+          2. change option x to z
+          3. open a new tab and navigate to url https://example.net ...
+          4. after the page has loaded, do xyz / click on ...
+          5. ... 
         
   - type: textarea
     id: expected-result
@@ -35,13 +65,4 @@ body:
         - Nothing happend (no reaction)
         - Error/blank page was show
         - Data was not saved
-
-  - type: textarea
-    id: additional-information
-    attributes:
-      label: Additional Information 
-      placeholder: |
-        Examples: 
-        1. screen-shots/captures
-        2. browser (+version)
-        3. addon (+version)
+      
