@@ -17,7 +17,7 @@ body:
         - label: I do not know what this means
           required: true
         - label: "no"
-        - label: yes
+        - label: "yes"
 
   - type: input
     id: addon-version
