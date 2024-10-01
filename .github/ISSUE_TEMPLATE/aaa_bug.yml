@@ -15,9 +15,9 @@ body:
       label: Preliminary Checks
       description: I tried to reproduce the issue when...
       options:
-        - label: "in a new unmodified browser profile with only the addon installed
-        - label: "on the current stable firefox version 
-        - label: "with the latest addon version"
+        - label: in a new unmodified browser profile with only the addon installed
+        - label: on the current stable firefox version
+        - label: with the latest addon version
 
   - type: textarea
     id: steps-to-reproduce
