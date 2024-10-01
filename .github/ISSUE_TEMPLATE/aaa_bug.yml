@@ -9,8 +9,8 @@ body:
         Thanks for taking the time submit this issue!
         Please use the following input fields to share all relevant information 
 
-  - type: checkbox 
-    id: profile-reproducable
+  - type: checkboxes
+    id: preliminary-checks
     attributes:
       label: Preliminary Checks
       description: I tried to reproduce the issue when...
