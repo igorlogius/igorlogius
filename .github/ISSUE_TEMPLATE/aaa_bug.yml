@@ -15,8 +15,8 @@ body:
       label: Reproducable in a new profile? 
       options:
         - I do not know what this means
-        - no
-        - yes
+        - "no"
+        - "yes"
     validations:
       required: true
 
