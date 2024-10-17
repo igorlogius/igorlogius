@@ -1,23 +1,17 @@
 name: Report a Bug 🪲
-description: If something isn't working as you'd expect, please use this template to report 
+description: Use this if something is not working as you would expect 
 title: "addon name: title"
 labels: ["🪲 Bug"]
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Thanks for taking the time submit this issue!
-        Please use the following input fields to share all relevant information 
-
   - type: checkboxes
     id: preliminary-checks
     attributes:
       label: Preliminary Checks
-      description: I tried to reproduce the issue when...
+      description: Did you try to reproduce the issue ...
       options:
-        - label: in a new unmodified browser profile with only the addon installed
-        - label: on the current stable firefox version
-        - label: with the latest addon version
+        - label: in a new unmodified browser profile with only the addon installed?
+        - label: on the current stable firefox version?
+        - label: with the latest addon version?
 
   - type: textarea
     id: steps-to-reproduce
