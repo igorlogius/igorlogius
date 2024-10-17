@@ -6,8 +6,7 @@ body:
   - type: textarea
     id: expected-result
     attributes:
-      label: Description
-      description: Describe your request or suggestion here
+      label: Describe your request or suggestion
       placeholder: |
         - i want X todo Y, because thats simpler/quicker fits into workflow Z
         - i think A should be like B because C
