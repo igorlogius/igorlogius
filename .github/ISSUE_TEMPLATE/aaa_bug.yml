@@ -3,16 +3,14 @@ description: Use this if something is not working as you would expect
 title: "addon name: title"
 labels: ["🪲 Bug"]
 body:
-  - type: checkboxes
+  - type: dropdown
     id: preliminary-checks
     attributes:
-      label: Preliminary Checks
-      description: Did you try to reproduce the issue ...
-      options:
-        - label: in a new unmodified browser profile with only the addon installed?
-        - label: on the current stable firefox version?
-        - label: with the latest addon version?
-
+      label: Can you reproduce the issue in a 2nd new unmodified firefox profile with only the addon installed in its latest version  on the current stable firefox 
+      options: 
+        - no
+        - yes
+  
   - type: textarea
     id: steps-to-reproduce
     attributes:
@@ -22,8 +20,7 @@ body:
           1. open the addon preferences page
           2. change option x to z
           3. open a new tab and navigate to url https://example.net ...
-          4. after the page has loaded, do xyz / click on ...
-          5. ... 
+          4. ... 
         
   - type: textarea
     id: expected-result
@@ -42,5 +39,4 @@ body:
         Examples: 
         - Nothing happend (no reaction)
         - Error/blank page was show
-        - Data was not saved
       
