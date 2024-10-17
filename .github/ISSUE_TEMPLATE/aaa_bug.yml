@@ -4,15 +4,12 @@ title: "addon name: title"
 labels: ["🪲 Bug"]
 body:
   - type: dropdown
-    id: preliminary-checks
     attributes:
       label: Can you reproduce the issue in a 2nd new unmodified firefox profile with only the addon installed in its latest version  on the current stable firefox 
       options: 
-        - "no"
-        - "yes"
+        - "yes - Please only select if you actually did!"
   
   - type: textarea
-    id: steps-to-reproduce
     attributes:
       label: Steps to Reproduce
       placeholder: |        
@@ -23,7 +20,6 @@ body:
           4. ... 
         
   - type: textarea
-    id: expected-result
     attributes:
       label: Expected Result
       placeholder: |
@@ -32,7 +28,6 @@ body:
         - Data should be inside the clipboard / saved
 
   - type: textarea
-    id: actual-result
     attributes:
       label: Actual Result
       placeholder: |
