@@ -1,6 +1,6 @@
 name: Report a Bug 🪲
 description: If something isn't working as you'd expect, please use this template to report 
-title: "addon: title"
+title: "addon name: title"
 labels: ["🪲 Bug"]
 body:
   - type: markdown
