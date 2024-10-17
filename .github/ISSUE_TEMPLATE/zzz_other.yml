@@ -1,15 +1,11 @@
 name: Something else? 
 description: Use this for anything that is not a bug report or a suggetion
-title: "<short title>"
+title: "title"
 labels: ["🔍 Mystery"]
 body:
-  - type: markdown
-    attributes:
-      value: |
-        What's on your mind? 
   - type: textarea
     id: question
     attributes:
-      label: Question
+      label: What's on your mind? 
       placeholder: |
-          - Why are your addons so ugly?
+          - Enter text here
