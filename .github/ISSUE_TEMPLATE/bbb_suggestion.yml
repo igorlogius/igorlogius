@@ -1,12 +1,11 @@
 name: Make a Suggestion 💡
-description: Use this if you have an improvement suggestion or want to request a feature
+description: Use this if want to make a suggestion
 title: "addon name: title"
 labels: ["💡 Suggestion"]
 body:
   - type: textarea
-    id: expected-result
     attributes:
-      label: Describe your request or suggestion
+      label: Describe your suggestion
       placeholder: |
-        - i want X todo Y, because thats simpler/quicker fits into workflow Z
+        - i want X todo Y, because that is simpler/quicker and fits better into workflow Z
         - i think A should be like B because C
