@@ -2,16 +2,16 @@
 ### Why are your addons so ugly?
 
 I am not a designer and i find CSS to be dedious/boring to a certain degree.
-That said, anyone is welcome to make PRs and improvment suggestions.
+That said, anyone is welcome to make PRs and improvement suggestions.
 
 ### Why are the issue pages in your repositories disabled? 
 
-At the moment i find it easier when everything is in one place. 
-Should the number of collaboraters increases or something else change i might change this on a per repository basis. 
+At the moment i find it easier to mange to have all issues in one place. 
+Should the number of issues, collaboraters or something else change i might change this on a per repository basis. 
 
 ### Can i use your stuff? 
 
-Sure, go ahead. If you plan an releasing something build with/on it into the public domain, 
+Sure, go ahead. If you plan an releasing something build on it into the public domain 
 it would be nice if you left a mention somewhere. Otherwise, have fun.   
 
 ### How do i know the stuff i install on AMO is the same as what is hosted here?
@@ -35,7 +35,7 @@ There are some restricted domains, where addons are not allowed to be run, witho
 ### Which commit corresponds to a version hosted on https://addons.mozilla.org? 
 
 The AMO version is linked with the `version` attribute inside the `manifest.json` file.
-If you are looking for the code of a specific version, go to the commit, where the `manifest.json`'s `version` attribute is changed to correspond with the Version you are interested in.
+If you are looking for the code of a specific version, go to the commit, where the `manifest.json`'s `version` attribute is changed to correspond with the version you are interested in.
 
 ### Why dont you host the xpi files on github?
 
@@ -43,10 +43,9 @@ The current async nature of the AMO API makes it difficult to automate getting t
 
 ### Why do you delete old issues?
 
-I generally like to remove old resolved issues after a certain time cause i dont see much value in retaining them. 
-If something becomes relevant it's best to open a new issue.  
+I generally like to remove old resolved issues after a certain time cause i dont see much value in retaining them and in many cases those might even contain outdated information which i try to avoid to not confuse users. 
 
-### How to share sensitive information? 
+### How to exchange sensitive information? 
 
 First open an issue so i can get back to you, then send the sensitive information 
 to the [support email](mailto:w7d7289je@mozmail.com) 
