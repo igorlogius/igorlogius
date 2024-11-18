@@ -4,8 +4,5 @@ title: "title"
 labels: ["🔍 Mystery"]
 body:
   - type: textarea
-    id: question
     attributes:
-      label: What's on your mind? 
-      placeholder: |
-          - Enter text here
+      label: What is on your mind?
