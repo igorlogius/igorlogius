@@ -5,7 +5,7 @@ labels: ["🪲 Bug"]
 body:
   - type: dropdown
     attributes:
-      label: Can you reproduce the issue in a 2nd new unmodified firefox profile with only the addon installed in its latest version  on the current stable firefox 
+      label: Can you reproduce your issue in a 2nd new unmodified firefox profile with only the addon installed in its latest version  on the current stable firefox 
       options: 
         - "yes - Please only select if you actually did!"
   
