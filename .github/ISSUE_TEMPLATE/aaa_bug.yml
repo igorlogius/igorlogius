@@ -1,5 +1,6 @@
 name: Report a Bug 🪲
 description: Use this if something is not working as you would expect 
+assignees: "igorlogius"
 title: "addon name: title"
 labels: ["🪲 Bug"]
 body:
