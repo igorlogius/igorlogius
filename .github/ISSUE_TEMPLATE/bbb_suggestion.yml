@@ -1,12 +1,12 @@
-name: Make a Suggestion 💡
-description: Use this if want to make a suggestion
+name: "Make a Suggestion 💡"
+description: "Use this if want to make a suggestion"
 assignees: "igorlogius"
 title: "addon name: title"
 labels: ["💡 Suggestion"]
 body:
   - type: textarea
     attributes:
-      label: Describe your suggestion
+      label: "Describe your suggestion"
       placeholder: |
         - i want X todo Y, because that is simpler/quicker and fits better into workflow Z
         - i think A should be like B because C
