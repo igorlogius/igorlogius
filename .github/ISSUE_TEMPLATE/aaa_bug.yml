@@ -1,18 +1,18 @@
-name: Report a Bug 🪲
-description: Use this if something is not working as you would expect 
+name: "Report a Bug 🪲"
+description: "Use this if something is not working as you would expect"
 assignees: "igorlogius"
 title: "addon name: title"
 labels: ["🪲 Bug"]
 body:
   - type: dropdown
     attributes:
-      label: Can you reproduce your issue in a 2nd new unmodified firefox profile with only the addon installed in its latest version  on the current stable firefox 
+      label: "Can you reproduce your issue in a 2nd new unmodified firefox profile with only the addon installed in its latest version  on the current stable firefox"
       options: 
         - "yes - Please only select if you actually did!"
   
   - type: textarea
     attributes:
-      label: Steps to Reproduce
+      label: "Steps to Reproduce"
       placeholder: |        
         Examples: 
           1. open the addon preferences page
@@ -22,7 +22,7 @@ body:
         
   - type: textarea
     attributes:
-      label: Expected Result
+      label: "Expected Result"
       placeholder: |
         Examples: 
         - Windows should open that shows X
@@ -30,7 +30,7 @@ body:
 
   - type: textarea
     attributes:
-      label: Actual Result
+      label: "Actual Result"
       placeholder: |
         Examples: 
         - Nothing happend (no reaction)
