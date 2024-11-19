@@ -1,7 +1,8 @@
 name: Something else? 
 description: Use this for anything that is not a bug or a suggestion
+assignees: "igorlogius"
 labels: ["🔍 Mystery"]
 body:
   - type: textarea
     attributes:
-      label: What is on your mind?
+      label: "What's on your mind?"
