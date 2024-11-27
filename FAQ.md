@@ -51,3 +51,9 @@ First open an issue so i can get back to you, then send the sensitive informatio
 to the [support email](mailto:w7d7289je@mozmail.com) 
 Use the same issue title as the subject in the mail, so i'll be able to match them up. 
 
+### Why is addon X not hosted on AMO?
+
+That depends a bit on the addon.  The two main reason are:
+
+1. The addon does not fully comply with the AMO's Terms of Service and is therefor simply not hostable there. I generally try to remember and put a  signed XPI's into the repos for that situation, but i might forget, so dont blame me please. 
+2. The addon was on AMO for a while but it simply did not gather enough interest that i though it reasonable to keep maintaince up.
