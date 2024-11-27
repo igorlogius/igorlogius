@@ -1,7 +1,6 @@
 name: "Make a Suggestion 💡"
 description: "Use this if want to make a suggestion"
-assignees: "igorlogius"
-title: "addon name: title"
+title: "addon: title"
 labels: ["💡 Suggestion"]
 body:
   - type: textarea
