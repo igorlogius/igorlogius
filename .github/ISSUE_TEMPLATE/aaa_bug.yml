@@ -1,6 +1,6 @@
 name: "Report a Bug 🪲"
 description: "Use this if something is not working as you would expect"
-title: "addon: title"
+title: "< addon name >: < your title >"
 labels: ["🪲 Bug"]
 body:
   - type: dropdown
