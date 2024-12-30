@@ -48,7 +48,7 @@ I generally like to remove old resolved issues after a certain time cause i dont
 ### How to exchange sensitive information? 
 
 First open an issue so i can get back to you, then send the sensitive information 
-to the [support email](mailto:w7d7289je@mozmail.com) 
+to the w7d7289je(AT)mozmail(DOT)com 
 Use the same issue title as the subject in the mail, so i'll be able to match them up. 
 
 ### Why is addon X not hosted on AMO?
