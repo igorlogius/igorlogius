@@ -1,0 +1,12 @@
+    :**TODO:** Share steps to reproduce the issue with others;
+    if (Issue reproducable by others?) then (yes)
+      :Might be an actual
+      firefox issue
+      **TODO:** Check bugzilla;
+      stop
+    else (no)
+      :Likely not a firefox issue
+      but a different system, device 
+      or software issue;
+      stop
+    endif
