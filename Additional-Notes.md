@@ -1,4 +1,4 @@
-<b>General Notes:</b>
+<h1>Additional-Notes:</h1>
 <ol>
   <li>
     <b>Can/Should i trust this addon?</b> You can view the source code by either
