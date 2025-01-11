@@ -5,11 +5,11 @@
     visiting the Homepage/Support Site or just saving/downloading the XPI (which
     is really just a ZIP Archive) and then extract it locally. The Sources in
     the XPI should be unofuscated and unminified (HTML,CSS and JS), so it's as
-    easy to read as possible. Alternatives you can also use the
+    easy to read as possible. You can also use the
     <a href="https://addons.mozilla.org/en-US/firefox/addon/crxviewer/"
       >CRX Viewer Extension by Rob W</a
     >
-    to inspect the XPI sources. If you have an questions, you can also open an
+    to inspect the XPI sources. If you have any questions, you can also open an
     issue on the support site and i'll try and answer to the best of my
     abilities. If you are no programmer and are still feeling unsure, you might
     want to visit one of the official or unoffical mozilla communities and ask
@@ -19,7 +19,7 @@
   </li>
   <li>
     <b>Permissions:</b>
-    This add-on tries to use the minimal number of required permissions to
+    This addon tries to use the minimal number of required permissions to
     successfully fullfill its intended purpose. If you think this could be
     improved please let me know by opening an issue and i will try to look into
     it. More Details on the individual permission can be found here:
@@ -27,7 +27,7 @@
   </li>
   <li>
     <b>Cost/Payment:</b>
-    This Add-on is and forever will be subscription and payment free to use for
+    This addon is and forever will be subscription and payment free to use for
     everyone however they like. If you are feeling generous you can send me a
     tip via my bitcoin address 35WK2GqZHPutywCdbHKa9BQ52GND3Pd6h4
   </li>
@@ -37,14 +37,13 @@
     an easier time finding it.
   </li>
   <li>
-    <b>Bugs, Suggestions or Requests:</b>
+    <b>Bugs & Suggestions:</b>
     If you have any issues (for example a site it does not work but you think it
-    should) or have improvement suggestions or a feature request please open an
-    issue at the Support Site
+    should) or have an improvement suggestions please open an issue at the support site
   </li>
   <li>
-    <b>Shortcuts: </b>
-    Existing shortcuts can be changed. For more information, see
+    <b>Shortcuts:</b>
+    If an addon has shortcuts defined, these can be changed. For more information, see
     https://support.mozilla.org/en-US/kb/manage-extension-shortcuts-firefox
   </li>
 </ol>
