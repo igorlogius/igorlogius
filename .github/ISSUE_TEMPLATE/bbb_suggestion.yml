@@ -1,5 +1,5 @@
 name: "Make a Suggestion 💡"
-description: "Use this if want to make a suggestion"
+description: "Use this if you want to make a suggestion"
 title: "< addon name >: < your title >"
 labels: ["💡 Suggestion"]
 body:
@@ -7,5 +7,5 @@ body:
     attributes:
       label: "Describe your suggestion"
       placeholder: |
-        - i want X todo Y, because that is simpler/quicker and fits better into workflow Z
+        - i want X todo Y, because that is simpler and fits better into workflow Z
         - i think A should be like B because C
