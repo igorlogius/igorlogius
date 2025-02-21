@@ -5,7 +5,7 @@ labels: ["💡 Suggestion"]
 body:
   - type: textarea
     attributes:
-      label: "Describe your suggestion"
+      label: "Please describe your suggestion"
       placeholder: |
         - i want X todo Y, because that is simpler and fits better into workflow Z
         - i think A should be like B because C
