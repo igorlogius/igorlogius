@@ -5,7 +5,7 @@ labels: ["🪲 Bug"]
 body:
   - type: dropdown
     attributes:
-      label: "Can you reproduce the issue in [a new firefox profile](https://support.mozilla.org/en-US/kb/profile-manager-create-remove-switch-firefox-profiles)?"
+      label: Can you reproduce the issue in [a new firefox profile](https://support.mozilla.org/en-US/kb/profile-manager-create-remove-switch-firefox-profiles)?
       options: 
         - "not checked"
         - "no"
