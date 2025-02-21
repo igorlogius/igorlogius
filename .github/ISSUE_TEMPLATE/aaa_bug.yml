@@ -5,7 +5,7 @@ labels: ["🪲 Bug"]
 body:
   - type: dropdown
     attributes:
-      label: "Can you reproduce the issue in a new firefox profile? 
+      label: "Can you reproduce the issue in a new firefox profile?"
       options: 
         - "not checked"
         - "no"
