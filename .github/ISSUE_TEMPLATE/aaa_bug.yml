@@ -6,7 +6,9 @@ body:
   - type: dropdown
     attributes:
       label: "Can you reproduce the issue in a new firefox profile? 
-        - "no or not checked"
+      options: 
+        - "not checked"
+        - "no"
         - "yes"
     validations:
       required: true
