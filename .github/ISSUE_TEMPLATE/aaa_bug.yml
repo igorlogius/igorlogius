@@ -1,12 +1,8 @@
 name: "Report a Bug 🪲"
 description: "Use this if something is not working as you would expect"
+title: "Which addon is this bug about? And what is the gist of the problem?"
 labels: ["🪲 Bug"]
 body:
-  - type: input
-    attributes:
-      label: "Which addon is this bug about?"
-      placeholder: e.g. Copy Tabs, Link Extras, ...
-
   - type: dropdown
     attributes:
       label: "Can you reproduce the issue in a new firefox profile?"
