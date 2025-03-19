@@ -1,8 +1,12 @@
 name: "Make a Suggestion 💡"
 description: "Use this if you want to make a suggestion"
-title: "< insert addon name >: < insert short title >"
 labels: ["💡 Suggestion"]
 body:
+  - type: input
+    attributes:
+      label: "Which addon is this suggestion for?"
+      placeholder: e.g. Copy Tabs, Link Extras, ...
+
   - type: textarea
     attributes:
       label: "Please describe your suggestion"
