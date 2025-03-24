@@ -1,6 +1,6 @@
 name: "Report a Bug 🪲"
 description: "Use this if something is not working as you would expect"
-title: "Which addon is this bug about? And what is the gist of the problem?"
+title: "Which addon is this bug about? And what is the gist of the bug?"
 labels: ["🪲 Bug"]
 body:
   - type: dropdown
@@ -38,3 +38,11 @@ body:
         Examples: 
         - Nothing happend (no reaction)
         - Error/Blank page was shown
+
+  - type: textarea
+    attributes:
+      label: "Evidence / Showcase"
+      placeholder: | 
+        - If possible attach a short screen recording that showcases the issue here
+
+        
