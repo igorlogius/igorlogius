@@ -4,6 +4,8 @@ title: "Which addon is this suggestion about? And what is the gist of it?"
 labels: ["💡 Suggestion"]
 body:
   - type: textarea
+    validations:
+      required: true
     attributes:
       label: "Please describe your suggestion"
       placeholder: |
