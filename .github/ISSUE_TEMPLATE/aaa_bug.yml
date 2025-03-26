@@ -4,19 +4,20 @@ title: "Which addon is this bug about? And what is the gist of the bug?"
 labels: ["🪲 Bug"]
 body:
   - type: dropdown
+    validations:
+      required: true
     attributes:
       label: "Can you reproduce the issue in a new firefox profile?"
       options: 
         - "not checked"
         - "no"
         - "yes"
-    validations:
-      required: true
   
   - type: textarea
+    validations:
+      required: true
     attributes:
       label: "Steps to Reproduce"
-      required: true
       placeholder: |        
         Examples: 
           1. open the addon preferences page
@@ -25,18 +26,20 @@ body:
           4. ... 
         
   - type: textarea
+    validations:
+      required: true
     attributes:
       label: "Expected Result"
-      required: true
       placeholder: |
         Examples: 
         - Windows should open that shows X
         - Data should be inside the clipboard / saved
 
   - type: textarea
+    validations:
+      required: true
     attributes:
       label: "Actual Result"
-      required: true
       placeholder: |
         Examples: 
         - Nothing happend (no reaction)
