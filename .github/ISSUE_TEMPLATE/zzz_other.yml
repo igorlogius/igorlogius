@@ -1,5 +1,6 @@
-name: "Something else?"
+name: "Got a question, need help or something else?"
 description: "Use this for anything that is not a bug or a suggestion"
+labels: ["🛟Support"]
 body:
   - type: textarea
     attributes:
