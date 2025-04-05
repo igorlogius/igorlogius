@@ -24,6 +24,7 @@
     successfully fullfill its intended purpose. If you think this could be
     improved please let me know by opening an issue and i will try to look into
     it. More Details on the individual permission can be found here:
+    https://support.mozilla.org/en-US/kb/permission-request-messages-firefox-extensions and a more technical breakdown can be found here:
     https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json/permissions
   </li>
   <li>
