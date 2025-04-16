@@ -47,8 +47,13 @@ body:
 
   - type: textarea
     attributes:
-      label: "Evidence / Showcase"
+      label: "Evidence / Showcase (optional)"
       placeholder: | 
         - If possible attach a short screen recording that showcases the issue here
 
+  - type: textarea
+    attributes:
+      label: "Further Additional Comments (optional)"
+      placeholder: | 
+        - Anything else you might want to add 
         
