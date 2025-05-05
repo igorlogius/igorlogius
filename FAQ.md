@@ -43,8 +43,8 @@ The current async nature of the AMO API makes it difficult to automate getting t
 
 ### Why do you delete older issues?
 
-It kind it helps me to better focused on the still open/relevant ones. 
-I dont see much value in retaining them and in many cases those might even contain outdated and misleading information which users might bet confused by.
+It helps me to better focused on the still relevant ones and i dont see that much value in retaining them.
+In many cases those might even contain outdated or misleading information which users might even get confused by.
 
 ### How to exchange sensitive information? 
 
@@ -54,7 +54,7 @@ Use the same issue title as the subject in the mail, so i'll be able to match th
 
 ### Why is addon X not hosted on AMO?
 
-That depends a bit on the addon.  The two main reason could be
+The two main reason could be
 
-1. The addon does not fully comply with the AMO's Terms of Service and is therefor simply not hostable there. I generally try to remember and put a  signed XPI's into the repos for that situation, but i might forget, so dont blame me please. 
-2. The addon was on AMO for a while but it simply did not gather enough interest that i thought it reasonable to keep maintaince up.
+1. The addon does not fully comply with the AMO's TOS and is therefor simply not hostable there.
+2. The addon was on AMO for a while but it did not gather enough interest that i thought it reasonable to keep maintaince up.
