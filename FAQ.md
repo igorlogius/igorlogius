@@ -4,11 +4,6 @@
 I am not a designer and i find CSS to be dedious/boring to a certain degree.
 That said, anyone is welcome to make PRs.
 
-### Why are the issue pages in your repositories disabled? 
-
-At the moment i find it easier to manage if i have all issues in one place. 
-Should the number of issues, collaboraters or something else change i might reconsider this.
-
 ### Can i use your stuff? 
 
 Sure, go ahead. If you plan an releasing something build on or from it into the public domain 
