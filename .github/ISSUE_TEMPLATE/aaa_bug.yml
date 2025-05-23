@@ -18,11 +18,10 @@ body:
       required: true
     attributes:
       label: "Steps to Reproduce"
-      placeholder: |        
-        Examples: 
+      placeholder: |
           1. open the addon preferences page
           2. change option x to z
-          3. open a new tab and navigate to url https://example.net ...
+          3. open a new tab and navigate to url https:// ...
           4. ... 
         
   - type: textarea
@@ -31,9 +30,7 @@ body:
     attributes:
       label: "Expected Result"
       placeholder: |
-        Examples: 
-        - Windows should open that shows X
-        - Data should be inside the clipboard / saved
+        - Describe what you expected that to happen here
 
   - type: textarea
     validations:
@@ -41,19 +38,17 @@ body:
     attributes:
       label: "Actual Result"
       placeholder: |
-        Examples: 
-        - Nothing happend (no reaction)
-        - Error/Blank page was shown
+        - Describe what actually happend here
 
   - type: textarea
     attributes:
       label: "Evidence / Showcase (optional)"
       placeholder: | 
-        - If possible attach a short screen recording that showcases the issue here
+        - Attach a screen recording that showcases the issue here
 
   - type: textarea
     attributes:
-      label: "Further Additional Comments (optional)"
+      label: "Any Additional Comments (optional)"
       placeholder: | 
-        - Anything else you might want to add 
+        - Anything else you want to add goes here
         
