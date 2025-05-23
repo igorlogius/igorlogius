@@ -30,7 +30,7 @@ body:
     attributes:
       label: "Expected Result"
       placeholder: |
-        - Describe what you expected that to happen here
+        - Describe what you expected to happen here
 
   - type: textarea
     validations:
@@ -44,7 +44,7 @@ body:
     attributes:
       label: "Evidence / Showcase (optional)"
       placeholder: | 
-        - Attach a screen recording that showcases the issue here
+        - Attach a screen recording that shows the issue here
 
   - type: textarea
     attributes:
