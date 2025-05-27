@@ -49,7 +49,7 @@ Use the same issue title as the subject in the mail, so i'll be able to match th
 
 ### Why is addon X not hosted on AMO?
 
-The two main reason could be
+The two main reasons are
 
 1. The addon does not fully comply with the AMO's TOS and is therefor simply not hostable there.
 2. The addon was on AMO for a while but it did not gather enough interest that i thought it reasonable to keep maintaince up.
