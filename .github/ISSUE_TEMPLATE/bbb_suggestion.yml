@@ -1,6 +1,6 @@
 name: "💡 Make a Suggestion"
 description: "Use this if you want to make a suggestion"
-title: "Which addon is this suggestion about? And what is the gist of it?"
+title: "[addon name] brief title"
 assignees:  ["igorlogius"]
 labels: ["💡 Suggestion"]
 body:
@@ -8,6 +8,4 @@ body:
     validations:
       required: true
     attributes:
-      label: "Please describe your suggestion"
-      placeholder: |
-        - i want X todo Y, because that is fits better into workflow Z
+      label: "Describe your suggestion"
