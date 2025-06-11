@@ -1,55 +1,30 @@
 name: "🪲 Report a Bug"
-description: "Use this if something is not working as you would expect"
+description: "Use this if something does not work as you would expect"
 title: "Which addon is this bug about? And what is the gist of the bug?"
 assignees:  ["igorlogius"]
 labels: ["🪲 Bug"]
 body:
-  - type: dropdown
-    validations:
-      required: true
-    attributes:
-      label: "Can you reproduce the issue in a new firefox profile?"
-      options: 
-        - "not checked"
-        - "no"
-        - "yes"
-  
+
   - type: textarea
     validations:
       required: true
     attributes:
-      label: "Steps to Reproduce"
+      label: "Reproduction steps"
       placeholder: |
-          1. open the addon preferences page
-          2. change option x to z
-          3. open a new tab and navigate to url https:// ...
-          4. ... 
+        List the necessary steps for reproduction
         
   - type: textarea
     validations:
       required: true
     attributes:
-      label: "Expected Result"
+      label: "Expected result"
       placeholder: |
-        - Describe what you expected to happen here
+        Describe what you expected to happen
 
   - type: textarea
     validations:
       required: true
     attributes:
-      label: "Actual Result"
+      label: "Actual result"
       placeholder: |
-        - Describe what actually happend here
-
-  - type: textarea
-    attributes:
-      label: "Evidence / Showcase (optional)"
-      placeholder: | 
-        - Attach a screen recording that shows the issue here
-
-  - type: textarea
-    attributes:
-      label: "Any Additional Comments (optional)"
-      placeholder: | 
-        - Anything else you want to add goes here
-        
+        Describe what actually happend
