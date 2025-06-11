@@ -1,6 +1,6 @@
 name: "🪲 Report a Bug"
-description: "Use this if something does not work as you would expect"
-title: "Which addon is this bug about? And what is the gist of the bug?"
+description: "Use this if something does not work as expected"
+title: "[addon name] your brief title"
 assignees:  ["igorlogius"]
 labels: ["🪲 Bug"]
 body:
