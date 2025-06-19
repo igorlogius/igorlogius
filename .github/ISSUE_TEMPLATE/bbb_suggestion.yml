@@ -1,6 +1,6 @@
 name: "💡 Make a Suggestion"
-description: "Use this if you want to make a suggestion"
-title: "[addon name] brief title"
+description: "Use this if for feature and change requests for existing projects"
+title: "[repo name] brief title"
 assignees:  ["igorlogius"]
 labels: ["💡 Suggestion"]
 body:
@@ -8,4 +8,4 @@ body:
     validations:
       required: true
     attributes:
-      label: "Describe your suggestion"
+      label: "Description"
