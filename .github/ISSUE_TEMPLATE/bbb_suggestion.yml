@@ -9,3 +9,7 @@ body:
       required: true
     attributes:
       label: "Description"
+      value: |
+        A. Problem Description (aka. usecase motivation)
+        B. Solution suggestion
+        
