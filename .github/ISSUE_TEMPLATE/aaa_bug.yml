@@ -1,6 +1,6 @@
 name: "🪲 Report a Bug"
-description: "Use this if something does not work as expected"
-title: "[addon name] your brief title"
+description: "Use this if something doesn't work"
+title: "[repo name] brief title"
 assignees:  ["igorlogius"]
 labels: ["🪲 Bug"]
 body:
@@ -9,22 +9,8 @@ body:
     validations:
       required: true
     attributes:
-      label: "Reproduction steps"
+      label: "Description"
       placeholder: |
-        List the necessary steps for reproduction
-        
-  - type: textarea
-    validations:
-      required: true
-    attributes:
-      label: "Expected result"
-      placeholder: |
-        Describe what you expected to happen
-
-  - type: textarea
-    validations:
-      required: true
-    attributes:
-      label: "Actual result"
-      placeholder: |
-        Describe what actually happend
+        1. Reproduction Steps
+        2. Expected Result
+        3. Actual Result
