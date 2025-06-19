@@ -1,9 +1,9 @@
 name: "🛟 Ask a Question"
-description: "Use this for anything that is not a bug report or a suggestion"
-title: "[addon name] your brief title"
+description: "Use this for anything that is not a bug or suggestion"
+title: "[repo name]? brief title"
 assignees:  ["igorlogius"]
 labels: ["🛟 Support"]
 body:
   - type: textarea
     attributes:
-      label: "What's on your mind?"
+      label: "Description"
