@@ -10,7 +10,13 @@ body:
       required: true
     attributes:
       label: "Description"
-      placeholder: |
-        1. Reproduction Steps
-        2. Expected Result
-        3. Actual Result
+      value: |
+        A. Reproduction Steps
+          1. ...
+          2. ...
+          
+        B. Expected Result
+          ...
+          
+        C. Actual Result
+          ...
