@@ -1,7 +1,6 @@
 name: "💡 Make a Suggestion"
 description: "Use this if for feature and change requests for existing projects"
-title: "[repo name] brief title"
-assignees:  ["igorlogius"]
+title: "repo / title"
 labels: ["💡 Suggestion"]
 body:
   - type: textarea
