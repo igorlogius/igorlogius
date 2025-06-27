@@ -1,7 +1,6 @@
 name: "🪲 Report a Bug"
 description: "Use this if something doesn't work"
-title: "[repo name] brief title"
-assignees:  ["igorlogius"]
+title: "[repo] title"
 labels: ["🪲 Bug"]
 body:
 
